@@ -22,9 +22,9 @@
 	"author": "Craig Harman",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/harmonic/vue-tailwind-modal/issues"
+		"url": "https://github.com/craigharman/vue-tailwind-modal/issues"
 	},
-	"homepage": "https://github.com/harmonic/vue-tailwind-modal#readme",
+	"homepage": "https://github.com/craigharman/vue-tailwind-modal#readme",
 	"private": false,
 	"devDependencies": {
 		"@vue/cli-plugin-babel": "^4.5.13",
