@@ -27,8 +27,8 @@
 	"homepage": "https://github.com/craigharman/vue-tailwind-modal#readme",
 	"private": false,
 	"devDependencies": {
-		"@vue/cli-plugin-babel": "^4.5.13",
-		"@vue/cli-plugin-eslint": "^4.5.13",
+		"@vue/cli-plugin-babel": "^5.0.9",
+		"@vue/cli-plugin-eslint": "^5.0.9",
 		"@vue/cli-service": "^5.0.9",
 		"babel-eslint": "^10.1.0",
 		"css-loader": "^3.6.0",
